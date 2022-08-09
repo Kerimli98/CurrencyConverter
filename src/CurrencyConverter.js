@@ -23,9 +23,7 @@ const CurrencyConverter = ({
           );
         })}
       </select>
-      {/* <p>
-        1{currency} is {amount}USD
-      </p> */}
+  
     </div>
   );
 };

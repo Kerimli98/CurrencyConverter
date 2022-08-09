@@ -5,5 +5,4 @@ const api = axios.create({
   
 });
 export default api;
-// key
-// azFpURzaG2m1aL23Uja0XcZerYXeOyAM
+

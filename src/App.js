@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import api from "./api";
-import CurrencyConverter from "./CurrencyConverter";
+// import CurrencyConverter from "./CurrencyConverter";
 import CurrencyConverter2 from "./CurrencyConverter2";
 // VBO6WBLXWgUyTzA8mZ1jQaUfGAawmSs1   --api key
 function App() {
